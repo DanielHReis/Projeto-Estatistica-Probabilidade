@@ -1,5 +1,7 @@
 # 📊 Análise dos Resultados do ENEM 2024
 
+Feito por Daniel Silva, Anderson Gabriel, Matheus Lima, Rafael Rian
+
 Projeto de análise de dados educacionais desenvolvido para a disciplina **Fundamentos de Ciência de Dados**, utilizando os microdados oficiais do ENEM 2024 disponibilizados pelo INEP/MEC.
 
 > **Instituição:** Belém, Pará — 2026  
