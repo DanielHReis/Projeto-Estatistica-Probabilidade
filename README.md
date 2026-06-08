@@ -129,7 +129,6 @@ Os três métodos convergiram para a mesma acurácia, confirmando empiricamente 
 ## 🔭 Trabalhos Futuros
 
 - Incluir múltiplas features na classificação (notas individuais, município, idioma)
-- Aplicar `GaussianNB` para features contínuas
 - Integrar dados socioeconômicos do questionário do ENEM
 - Aplicar clustering não-supervisionado (K-Means) para identificar perfis de desempenho
 
